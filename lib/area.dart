@@ -1,5 +1,5 @@
 library area;
 
 import 'package:intl/intl.dart';
-part 'rectangle.dart';
+part 'total.dart';
 part 'triangle.dart';
