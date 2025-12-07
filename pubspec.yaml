@@ -1,6 +1,7 @@
 name: area
 description: 'A new Flutter package project.'
 version: 0.0.1
+homepage: https://github.com/Uuganaaa12/area_package
 publish_to: none
 
 environment:
